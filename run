@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm -rf teste
+g++ ./src/*.cpp -o test
+./test
